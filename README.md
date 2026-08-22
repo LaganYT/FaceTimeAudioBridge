@@ -11,7 +11,7 @@ A native macOS menu-bar utility that monitors **BlackHole 2ch** into a physical 
 
 ## Problem & Solution
 
-I was having issues with Facetime "ducking" my music when on Facetime calls, to fix this I created this app that allows you to route your Facetime audio via a virtual audio input/output such as BlackHole 2ch and monitor the audio as if nothing changed. This app allows you to listen to music without having Facetime duck your audio.
+I was having issues with Facetime "ducking" my music when on Facetime calls, to fix this I created this app that allows you to route your Facetime audio via a virtual audio input/output such as BlackHole 2ch and monitor the audio, this allows you to listen to music without having Facetime duck your audio or you having to share your screen.
 
 ## FaceTime routing
 
