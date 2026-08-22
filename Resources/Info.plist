@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key><string>FaceTime Audio Bridge</string>
+    <key>CFBundleExecutable</key><string>FaceTimeAudioBridge</string>
+    <key>CFBundleIdentifier</key><string>local.codex.FaceTimeAudioBridge</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleName</key><string>FaceTime Audio Bridge</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.4.0</string>
+    <key>CFBundleVersion</key><string>4</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSMicrophoneUsageDescription</key><string>Routes audio from BlackHole to your selected audio interface.</string>
+</dict>
+</plist>
