@@ -9,6 +9,10 @@ A native macOS menu-bar utility that monitors **BlackHole 2ch** into a physical 
 - A stereo USB audio interface
 - Source and destination configured to the same sample rate in Audio MIDI Setup
 
+## Problem & Solution
+
+I was having issues with Facetime "ducking" my music when on Facetime calls, to fix this I created this app that allows you to route your Facetime audio via a virtual audio input/output such as BlackHole 2ch and monitor the audio as if nothing changed. This app allows you to listen to music without having Facetime duck your audio.
+
 ## FaceTime routing
 
 1. Keep the USB interface selected as the normal macOS output.
