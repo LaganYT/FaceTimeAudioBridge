@@ -23,13 +23,9 @@ Use **FaceTime Boost** to raise only the bridged call by 0–24 dB without incre
 
 The FaceTime call is sent to BlackHole and monitored into the interface. Other Mac audio remains directly on the interface, outside FaceTime's output device.
 
-### If BlackHole 2ch is already used by OBS
-
-Do not reuse the same two-channel device for FaceTime: it contains one mixed stereo stream, so the bridge would also monitor your system/OBS mix and could duplicate it in your headphones. Install a second BlackHole variant (for example BlackHole 16ch), reserve it for FaceTime, and choose that as the bridge Source. Your existing BlackHole 2ch Multi-Output Device and OBS configuration can remain unchanged.
-
 ## Build
 
-Run `Scripts/package-app.sh` to compile and ad-hoc sign the menu-bar `.app` bundle. The prebuilt app is also available in `dist`.
+Run `Scripts/package-app.sh` to compile the menu-bar `.app` bundle.
 
 ## Current limitations
 
